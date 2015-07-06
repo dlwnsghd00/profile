@@ -1,0 +1,7 @@
+set nu
+colorscheme elflord
+set ts=2
+set sw=2
+set ai
+set paste
+
